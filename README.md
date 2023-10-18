@@ -16,6 +16,6 @@ npx tailwindcss init“
 • Now run command -> “npm start”
 • This will run the react app on localhost 3000 on your system.
 
-CHECK OUT THIS PDF FOR APP VIEW
+!! PLEASE CHECK OUT THIS PDF FOR WEBSITE VIEW !!
 
 [README.pdf](https://github.com/anjalisachan53/Blog-Post-App/files/13018748/README.pdf)
